@@ -68,7 +68,7 @@ dot1.shapeColor = "blue";
 
 
 function draw() {  
-  background(46,139,87)
+  background(46,139,87 )
 
   if(foodS !== 0){
   if(keyWentDown(UP_ARROW)){
